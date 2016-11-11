@@ -6,7 +6,7 @@
     - [Quebra de Linha](http://dojopuzzles.com/problemas/exibe/quebra-de-linha/)
 
 
-## :simple_smile:
+## :)
 
 - Pessoas +++
 - Trabalho em equipe ++
@@ -18,7 +18,7 @@
 - Todos programaram
 
 
-## :weary:
+## :(
 
 - Teclado
 - Monitor
@@ -39,7 +39,8 @@
 - Emanuelle M  
 - Ramiro Alvaro
 - Cairo Noleto
-**In progress..**
+- Luiz da Mata
+- **In progress..**
 
 ## Rodando os testes
 
