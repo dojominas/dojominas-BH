@@ -2,7 +2,7 @@
 
 - Linguagem: [Elixir](http://www.elixir-lang.org/)
 - Problemas:
-    - [Dependências Transitivas](http://dojopuzzles.com/problemas/exibe/partida-de-tenis/)
+    - [Partida de Tênis](http://dojopuzzles.com/problemas/exibe/partida-de-tenis/)
 
 ## :)
 
