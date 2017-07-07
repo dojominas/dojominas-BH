@@ -1,4 +1,4 @@
-# DojoMinas@BH #9 | 08-06-2017
+# DojoMinas@BH #10 | 06-07-2017
 
 - Linguagem: [Elixir](http://www.elixir-lang.org/)
 - Problemas:
