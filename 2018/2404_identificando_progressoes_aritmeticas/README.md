@@ -1,4 +1,4 @@
-# DojoMinas@BH #3 | 01-12-2016
+# DojoMinas@BH #14 | 01-12-2016
 
 - Linguagem: [Ruby](http://www.ruby-lang.org/)
 - Problemas:
